@@ -1,22 +1,22 @@
 # C Programming Language Fundamentals (www.learn-c.org)
 
 ## Basics
-- Hello, World!
-- Variables and Types
-- Arrays
-- Multidimensional Arrays
-- Conditions
-- Strings
-- For loops
-- While loops
-- Functions
-- Static
+- [Hello, World!](01_hello.c)
+- [Variables and Types](02_data_types.c)
+- [Arrays](03_1d_arrays.c)
+- [Multidimensional Arrays](04_2d_arrays.c)
+- [Conditions](05_conditions.c)
+- [Strings](06_strings.c)
+- [For loops](07_for_loops.c)
+- [While loops](08_while_loops.c)
+- [Functions](09_functions.c)
+- [Static](10_static_variables.c)
 
 ## Advanced
-- Pointers
-- Structures
-- Function arguments by reference
-- Dynamic allocation  
+- [Pointers](11_pointers.c)
+- [Structures](12_structures.c)
+- [Function arguments by reference](13_function_arguments_by_reference.c)
+- [Dynamic allocation]()  
 
 Work In Progress:  
 
