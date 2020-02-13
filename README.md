@@ -31,5 +31,5 @@ Work In Progress:
 
 ## Resources
 
-- How to Run C and C++ Program in Sublime Text: https://www.thecrazyprogrammer.com/2017/04/how-to-run-c-and-c-program-in-sublime-text.html
-- Using the GCC C++ compiler (g++) and GDB debugger from Mingw-w64 in VS Code: https://code.visualstudio.com/docs/cpp/config-mingw
+- [How to Run C and C++ Program in Sublime Text](https://www.thecrazyprogrammer.com/2017/04/how-to-run-c-and-c-program-in-sublime-text.html)
+- [Using the GCC C++ compiler (g++) and GDB debugger from Mingw-w64 in VS Code](https://code.visualstudio.com/docs/cpp/config-mingw)
