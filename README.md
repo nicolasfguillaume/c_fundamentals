@@ -28,3 +28,7 @@ Work In Progress:
 - Pointer Arithmetics
 - Function Pointers
 - Bitmasks
+
+## Resources
+
+Using the GCC C++ compiler (g++) and GDB debugger from Mingw-w64 in VS Code: https://code.visualstudio.com/docs/cpp/config-mingw
